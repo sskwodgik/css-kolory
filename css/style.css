@@ -1,0 +1,18 @@
+body{
+    background-color: #faebd6;
+}
+h1{
+    color: #ff0000;
+
+}
+p:nth-of-type(odd) {
+    color: #a42423;
+    font-size: 2em;
+    margin-bottom: 80px;
+  }
+  
+  p:nth-of-type(even) {
+    color: #00008f;
+    font-size: 2em;
+
+  }
